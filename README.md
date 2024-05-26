@@ -114,8 +114,7 @@ o	C = 27 – 22 + 2 * 1 => C = 7, 7 изнесува циклопатската 
 
 ## Multiple condition
 
-![Screenshot 2024-05-26 170710](https://github.com/emsNikac/SI_2024_lab2_223235/assets/165374773/f20e9cb9-3cb4-460f-8845-4034adfae81d)
-
+![Screenshot 2024-05-26 172611](https://github.com/emsNikac/SI_2024_lab2_223235/assets/165374773/481c1018-28c9-41b6-aca3-b0f5a8a3462e)
 
 ## Тест случаи според критериумот (Multiple Condition)
 
